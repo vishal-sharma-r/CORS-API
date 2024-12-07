@@ -23,6 +23,8 @@ When the external API doesn't include appropriate CORS headers (e.g., Access-Con
 ## API Endpoints
 
 GET /: Returns Cors-api is working!
+
+
 GET /fetch: Fetches data from a provided URL. The URL should be passed as query parameters.
 
 ###### Example API
